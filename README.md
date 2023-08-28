@@ -1,11 +1,14 @@
 <div align="center" markdown="1">
+<img alt="CSS Banner" src="/img/banner.webp" />
   
 # Reset-CSS
 
-<img alt="CSS Banner" src="/img/banner.webp" />
+<br>
 
 Feel free to follow me on social medias! / Me acompanhe em minhas rede sociais!
-<br>
+
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/arthurcorream/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/arthurcoorea/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)]([https://docs.github.com/](https://github.com/ArtCM))
